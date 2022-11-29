@@ -117,8 +117,9 @@ h1,h3{
 }
 .img-11{
     background-image: url("../images/bg_image_petite.jpg") ;
-    background-size:40% 100%;
+    background-size:70% 100%;
     background-repeat: no-repeat;
+    background-position: center;
 }
 /* fin exo 05 background-size*/
 
